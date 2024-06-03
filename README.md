@@ -1,6 +1,6 @@
 # SQL-FoundationS
 ## EXERCISE1.
-The first assignment which is saved (ASSIGNMENT 1) tha deals with classsic models .
+The first assignment which is saved (ASSIGNMENT 1) that deals with classsic models .
 -- Question 1: What is the total number of orders placed in the year 2005?
 
 -- Question 2 : Find the names and contact information (city, country) 
