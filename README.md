@@ -100,3 +100,6 @@ Transactions: CustomerID, Portfolio, stock, quantity, price, date, time.
 
 
 
+
+
+
