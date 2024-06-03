@@ -78,6 +78,8 @@ Stores: including ID, name, location, contact information.
 Employees: including ID, SSN, name, gender, DoB, position, salary, AffiliateStore.
 Vendors: including name, address, contactPerson.
 Products: including name, Vendor, price, quantity.
+![PizzaHot Relationschema](https://github.com/milliamnjeru/SQL-Foundations/blob/main/pizzahot.jpeg)
+
 
 
 
