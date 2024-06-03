@@ -68,3 +68,17 @@ Question 8; Calculate the Average Quantity Sold per Customer.
 
 Question9;Customers with Total Sales Amount Greater Than $1500.
 
+##EXERCISE 4.
+The assignment entailed creating of Relational schema ,ERD using db.diagram (Entity,Attributes,Relationship ,identifier)and physical DB of PizzaHot
+
+Your client is a local fast food restaurant - PizzaHot. The background story is as below:
+PizzaHot is a local restaurant serving the community and bringing people happiness. Recent years, PizzaHot is adopting a franchising strategy and is moving towards a chain-restaurant in the State. A database system for Inner Management is crucial for the expansion of the business.
+The information needed is:
+Stores: including ID, name, location, contact information.
+Employees: including ID, SSN, name, gender, DoB, position, salary, AffiliateStore.
+Vendors: including name, address, contactPerson.
+Products: including name, Vendor, price, quantity.
+
+
+
+
