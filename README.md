@@ -83,7 +83,7 @@ Products: including name, Vendor, price, quantity.
 
 ## EXERCISE 5.
 
-The assignment involved creating of relational schema ,ERD using db.diagram i.e Entity,Attributes,Relationship,identifier and pthysical DB of Stock-Exchange.
+The assignment involved creating of relational schema ,ERD using db.diagram i.e Entity,Attributes,Relationship,identifier and physical DB of Stock-Exchange.
 
 Your client is a stock-exchange company. The background story is as below:
 TrueTrade provides excellent financial services to customers all over the world. Customers can buy/sell stock via TrueTrade easily and securely. TrueTrade also provides detailed information for every stock so customers can make the best decision.
@@ -94,6 +94,22 @@ Portfolio: including CustomerName, currentValue
 Logs: including stock#, openPrice, closePrice, date
 Transactions: CustomerID, Portfolio, stock, quantity, price, date, time.
 ![ Stock-Exchange Relationschema](https://github.com/milliamnjeru/SQL-Foundations/blob/main/Stocks.jpeg)
+
+## EXERCISE 6.
+The assignment involves creating of Relational schema,ERD using db.diagram i.e Entity,Attributes ,Relationship,identifier and physical DB of Art-Gallleries. 
+
+A gallery must have one and only one location and each location must have one and only one gallery.
+Galleries have attributes: GalleryNum(identifier), Name, Phone, Hours, and Intro.
+Locations have attributes: ID(identifier), Country, State, City, Street, and ZipCode.
+A gallery may have one or more drawings and each drawing may belong to one and only one gallery.
+Drawings have attributes: DrawingNum(identifier), Title, Size, Material, and Date.
+A drawing must be created by at least one artist and each artist must create at least one drawing.
+Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email.
+An artist may have a bio statement and a bio statement must belong to one artist.
+BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s).
+
+![ Art-Gallleries Relationschema](https://github.com/milliamnjeru/SQL-Foundations/blob/main/)
+
 
 
 
