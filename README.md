@@ -108,7 +108,7 @@ Artists have attributes: ArtistNum(identifier), Name, Phone, Birthday, and Email
 An artist may have a bio statement and a bio statement must belong to one artist.
 BioStatements have attributes: Citizenship, Education, Experience, MasterPiece(s).
 
-![ Art-Gallleries Relationschema](https://github.com/milliamnjeru/SQL-Foundations/blob/main/)
+![ Art-Gallleries Relationschema](https://github.com/milliamnjeru/SQL-Foundations/blob/main/gallery.jpeg)
 
 
 
