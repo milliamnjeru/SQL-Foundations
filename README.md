@@ -1,4 +1,5 @@
 # SQL-FoundationS
+
 ## EXERCISE1.
 The first assignment which is saved (ASSIGNMENT 1) that deals with classsic models .
 -- Question 1: What is the total number of orders placed in the year 2005?
@@ -23,7 +24,8 @@ The first assignment which is saved (ASSIGNMENT 1) that deals with classsic mode
 -- Question 9 : Find the top 5 customer cities (by city name) with the highest total order amounts.
 
 
-##EXERCISE 2
+## EXERCISE 2
+
 The second assignment saved (ASSIGNMENT 2) that deals with classic models and encloses on views,Stored procedure ,CTE and union.
 
 Question 1: Create a view named high_value_customers that lists the customer number, customer name, and total order amount for customers who have placed orders exceeding $10,000.
@@ -47,7 +49,8 @@ Question 9: Write a union query to list all office cities and customer cities, m
 Question 10: Create a union query that lists all product codes from the orderdetails table along with the respective order number and indicates whether it is from the 'Classic Cars' or 'Motorcycles' product line.
 
 
-##EXERCISE 3.
+## EXERCISE 3.
+
 The third assignment ie.ASSIGNMENT 3 from salesdb that  deals with  Aggregations, select,conditions and joins.
 
 Question1; Calculate the average quantity.
@@ -68,7 +71,8 @@ Question 8; Calculate the Average Quantity Sold per Customer.
 
 Question9;Customers with Total Sales Amount Greater Than $1500.
 
-##EXERCISE 4.
+## EXERCISE 4.
+
 The assignment entailed creating of Relational schema ,ERD using db.diagram (Entity,Attributes,Relationship ,identifier)and physical DB of PizzaHot
 
 Your client is a local fast food restaurant - PizzaHot. The background story is as below:
